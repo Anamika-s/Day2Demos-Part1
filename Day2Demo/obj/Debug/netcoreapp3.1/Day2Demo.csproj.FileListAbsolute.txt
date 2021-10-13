@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.exe
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.deps.json
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.dll
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\bin\Debug\netcoreapp3.1\Day2Demo.pdb
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.dll
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.pdb
+C:\Users\adminvm.adminvm\source\repos\SolutionThree\Day2Demo\obj\Debug\netcoreapp3.1\Day2Demo.genruntimeconfig.cache
